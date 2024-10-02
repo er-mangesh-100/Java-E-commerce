@@ -1,6 +1,6 @@
 # myCart - E-commerce Web Application
 
-![CART](https://github.com/user-attachments/assets/403d9dac-300a-4377-8192-df6ddb566d7a)
+![CART](https://github.com/user-attachments/assets/403d9dac-300a-4377-8192-df6ddb566d7a)  ![CART2](https://github.com/user-attachments/assets/f7a37f60-dba3-402a-8f9f-89213a06cf11)
 
 ## Project Overview
 **myCart** is a robust e-commerce web application that allows users to browse and purchase products from various categories. The application features two distinct panels: an Admin Panel for managing products and user interactions, and a Normal User Panel for customers to view and purchase products. The app is built using Java technologies such as Hibernate, JDBC, and JSP, ensuring a reliable and efficient backend. The frontend is powered by JavaScript, providing a dynamic and interactive user experience.
